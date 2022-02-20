@@ -1,0 +1,63 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+nav{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height:auto;
+    padding: 1rem;
+    opacity: 50%;
+    margin-left: -0.5rem;
+    margin-top: -0.5rem;
+}
+
+
+h1{
+    font-size: 1rem;
+    display: inline;
+    font-family: 'Work Sans', sans-serif;
+}
+
+h2{
+    text-align: center;
+    padding-top: 20%;
+    font-family: 'Work Sans', sans-serif;
+}
+
+button{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    opacity: 70%;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 1rem;
+    border-style: none;
+}
+
+button:hover{
+    opacity: 90%;
+}
+
+span{
+    font-family: 'Work Sans', sans-serif;
+}
+
+iframe{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+input{
+    display: none;
+}
+
+
